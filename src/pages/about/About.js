@@ -1,5 +1,5 @@
 
-import Back from '../Common/back/Back'
+import Back from '../../Components/Back'
 import AboutCard from './AboutCard'
 
 const About = () => {
